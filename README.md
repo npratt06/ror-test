@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+### Current step:
+
+[7.4 Updating an Article](https://guides.rubyonrails.org/getting_started.html#updating-an-article)
